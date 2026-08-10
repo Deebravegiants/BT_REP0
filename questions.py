@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "celestiaorg/celestia-core"
-REPO_NAME = "celestia-core"
+SOURCE_REPO = "ExodusOSS/hydra"
+REPO_NAME = "hydra"
 TREE = ""
 BRANCH = ""
 # Example:
