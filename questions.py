@@ -1,9 +1,9 @@
 import json
 import os
 
-MAX_REPO = 40
-SOURCE_REPO = "ExodusOSS/hydra"
-REPO_NAME = "hydra"
+MAX_REPO = 25
+SOURCE_REPO = "worldcoin/orb-core"
+REPO_NAME = ""
 TREE = ""
 BRANCH = ""
 # Example:
