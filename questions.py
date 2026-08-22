@@ -3,7 +3,7 @@ import os
 
 MAX_REPO = 25
 SOURCE_REPO = "near/nearcore"
-REPO_NAME = ""
+REPO_NAME = "nearcoress"
 TREE = ""
 BRANCH = ""
 # Example:
