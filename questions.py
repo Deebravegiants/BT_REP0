@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "Shopify/shopify-api-ruby"
-REPO_NAME = "shopify-api-ruby"
+SOURCE_REPO = "stacks-network/stacks-core"
+REPO_NAME = "stacks-core"
 TREE = ""
 BRANCH = ""
 # Example:
