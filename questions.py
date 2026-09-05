@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "logos-messaging/logos-delivery-js"
-REPO_NAME = "logos-delivery-js"
+SOURCE_REPO = "defuse-protocol/sdk-monorepo"
+REPO_NAME = "sdk-monorepo"
 TREE = ""
 BRANCH = ""
 # Example:
