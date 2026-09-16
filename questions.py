@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "polytope-labs/hyperbridge"
-REPO_NAME = "hyperbridge"
+SOURCE_REPO = "raydium-io/raydium-amm"
+REPO_NAME = "raydium-amm"
 TREE = ""
 BRANCH = ""
 # Example:
