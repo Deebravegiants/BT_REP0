@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "raydium-io/raydium-amm"
-REPO_NAME = "raydium-amm"
+SOURCE_REPO = "GuardianOrg/alt-fun-defender-contest-guardian"
+REPO_NAME = "alt-fun-defender-contest-guardian"
 TREE = ""
 BRANCH = ""
 # Example:
