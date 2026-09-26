@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "GuardianOrg/alt-fun-defender-contest-guardian"
-REPO_NAME = "alt-fun-defender-contest-guardian"
+SOURCE_REPO = "XOXNO/rs-lending-xlm"
+REPO_NAME = "rs-lending-xlm"
 TREE = ""
 BRANCH = ""
 # Example:
