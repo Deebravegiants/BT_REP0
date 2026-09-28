@@ -2,7 +2,7 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "rsksmart/rsk-powhsm/"
+SOURCE_REPO = "rsksmart/rsk-powhsm"
 REPO_NAME = "rsk-powhsm"
 TREE = ""
 BRANCH = ""
